@@ -1,0 +1,11 @@
+export { IntroHeader } from './IntroHeader'
+export { WhoWeAreSection } from './WhoWeAreSection'
+export { WhyWeAreSection } from './WhyWeAreSection'
+export { GoalSection } from './GoalSection'
+export { CoreValuesSection } from './CoreValueSection'
+
+export type { IntroHeaderProps } from './IntroHeader'
+export type { WhoWeAreSectionProp } from './WhoWeAreSection'
+export type { WhyWeAreSectionProp } from './WhyWeAreSection'
+export type { GoalSectionProp } from './GoalSection'
+export type { CoreValuesProp } from './CoreValueSection'
